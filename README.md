@@ -13,7 +13,7 @@ Beat Burst is a responsive web player built with HTML, CSS, and JavaScript, offe
 * Explore and play albums with cover art and track information.
 * Responsive design for a seamless experience on various devices.
 
-  # Usage Instructions
-  1. Clone the repository.
-  2. Open the cloned repository in your preferred code editor (e.g., Visual Studio Code).
-  3. Run the project using a live server extension or plugin in your code editor. This will launch the web player in your default web browser.
+# Usage Instructions
+1. Clone the repository.
+2. Open the cloned repository in your preferred code editor (e.g., Visual Studio Code).
+3. Run the project using a live server extension or plugin in your code editor. This will launch the web player in your default web browser.
